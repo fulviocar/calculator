@@ -19,3 +19,4 @@ spec:
         image: 172.17.0.1:5000/calculator:{{VERSION}}
         ports:
         - containerPort: 8889
+
